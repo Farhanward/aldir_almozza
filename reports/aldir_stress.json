@@ -1,0 +1,20 @@
+{
+  "signals": 12000,
+  "repeat": 3,
+  "processed": 36000,
+  "blocklist": 5375,
+  "errors": 0,
+  "latency_ms": {
+    "mean": 227.68016665941104,
+    "p99": 230.44129999470897
+  },
+  "memory_mb": {
+    "current": 1.936329,
+    "peak": 10.303809
+  },
+  "elapsed_seconds": 0.6883049999887589,
+  "collapse_check": {
+    "passed": true,
+    "criteria": "errors == 0"
+  }
+}
